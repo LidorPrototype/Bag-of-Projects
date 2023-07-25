@@ -9,9 +9,6 @@ __pycache__/
 # Model extensions
 *.pth.tar
 
-# Zip files
-# *.zip
-
 # Distribution / packaging
 .Python
 build/
