@@ -9,3 +9,4 @@ Here is a list of algorithms and projects implemented so far:
     - Random Forests : Credit Risk Analysis
     - K-Nearest Neighbors (KNN) : ecommendation System with Collaborative Filtering
 
+Python 3.9.7
