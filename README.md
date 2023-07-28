@@ -7,6 +7,7 @@ Here is a list of algorithms and projects implemented so far:
     - Logistic Regression : Employee Attrition Prediction
     - Decision Trees : Credit Card Fraud Detection
     - Random Forests : Credit Risk Analysis
-    - K-Nearest Neighbors (KNN) : ecommendation System with Collaborative Filtering
+    - K-Nearest Neighbors (KNN) : Recommendation System with Collaborative Filtering
+    - Naive Bayes : Msg Spam Classification
 
 Python 3.9.7
