@@ -13,5 +13,5 @@ Here is a list of algorithms and projects implemented so far:
     <li> <u>Gradient Boosting Machines (GBM) and Hidden Markov Model (HMM)</u> : Classifying and Predicting Stock Market States
 </ul>
     
-> Author: L.ES
+> Author: L.ES</br>
 > Python version: 3.9.7
