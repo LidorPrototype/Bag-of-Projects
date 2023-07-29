@@ -11,6 +11,7 @@ Here is a list of algorithms and projects implemented so far:
     <li> <u>K-Nearest Neighbors (KNN)</u> : Recommendation System with Collaborative Filtering</li>
     <li> <u>Naive Bayes</u> : Msg Spam Classification</li>
     <li> <u>Gradient Boosting Machines (GBM) and Hidden Markov Model (HMM)</u> : Classifying and Predicting Stock Market States
+    <li> <u>K-Means Clustering</u> : Customer Segmentation</li>
 </ul>
     
 > Author: L.ES</br>
