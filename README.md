@@ -3,7 +3,7 @@ In this reposetory you will find multiple machine learning and deep learning alg
 The structure of this repository is, inside the Projects folder you will find multiple projects with the name of the algorithm used, inside you will find the project files with the project name on them.
 
 Here is a list of algorithms and projects implemented so far:
-<ul>
+<ol>
     <li> <u>Linear Regression</u> : Salary Prediction</li>
     <li> <u>Logistic Regression</u> : Employee Attrition Prediction</li>
     <li> <u>Decision Trees</u> : Credit Card Fraud Detection</li>
@@ -12,7 +12,10 @@ Here is a list of algorithms and projects implemented so far:
     <li> <u>Naive Bayes</u> : Msg Spam Classification</li>
     <li> <u>Gradient Boosting Machines (GBM) and Hidden Markov Model (HMM)</u> : Classifying and Predicting Stock Market States
     <li> <u>K-Means Clustering</u> : Customer Segmentation</li>
-</ul>
+    <li> <u>Principal Component Analysis</u> : Dimensionality Reduction Timeseries</li>
+    <li> <u>Ridge Regression</u> : House Price Prediction</li>
+    <li> <u>Lasso Regression</u> : Feature Selection</li>
+</ol>
     
 > Author: L.ES</br>
 > Python version: 3.9.7
