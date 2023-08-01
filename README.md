@@ -15,6 +15,7 @@ Here is a list of algorithms and projects implemented so far:
     <li> <u>Principal Component Analysis</u> : Dimensionality Reduction Timeseries</li>
     <li> <u>Ridge Regression</u> : House Price Prediction</li>
     <li> <u>Lasso Regression</u> : Feature Selection</li>
+    <li> <u>Gaussian Mixture Models</u> : Anomaly Detection</li>
 </ol>
     
 > Author: L.ES</br>
