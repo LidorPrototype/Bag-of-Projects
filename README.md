@@ -16,6 +16,7 @@ Here is a list of algorithms and projects implemented so far:
     <li> <u>Ridge Regression</u> : House Price Prediction</li>
     <li> <u>Lasso Regression</u> : Feature Selection</li>
     <li> <u>Gaussian Mixture Models</u> : Anomaly Detection</li>
+    <li> <u>Apriori</u> : Market Basket Analysis</li>
 </ol>
     
 > Author: L.ES</br>
