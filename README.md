@@ -17,6 +17,7 @@ Here is a list of algorithms and projects implemented so far:
     <li> <u>Lasso Regression</u> : Feature Selection</li>
     <li> <u>Gaussian Mixture Models</u> : Anomaly Detection</li>
     <li> <u>Apriori</u> : Market Basket Analysis</li>
+    <li> <u>LightGBM&XGBoost</u> : Click-Through Rate (CTR) Prediction</li>
 </ol>
     
 > Author: L.ES</br>
