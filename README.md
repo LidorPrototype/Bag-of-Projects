@@ -1,6 +1,6 @@
 In this reposetory you will find multiple machine learning and deep learning algorithms implemented, each with a different unique project or mini project (depend on the algorithm itself).
 
-The structure of this repository is, inside the Projects folder you will find multiple projects with the name of the algorithm used, inside you will find the project files with the project name on them.
+The structure of this repository is as follows: inside the Projects folder you will find multiple projects with the name of the algorithm used, inside you will find the project files with the project name on them and an "Algorithm Brief" file explaining in short the algorithm that was used.
 
 Here is a list of algorithms and projects implemented so far:
 <ol>
