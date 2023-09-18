@@ -12,6 +12,13 @@ SMSS*
 # Model extensions
 *.pth.tar
 
+# Compressed files
+*.gz
+*.zip
+
+# Temporary files
+*.tmp
+
 # Distribution / packaging
 .Python
 build/
