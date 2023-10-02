@@ -18,6 +18,7 @@ Here is a list of algorithms and projects implemented so far:
     <li> <u>Gaussian Mixture Models</u> : Anomaly Detection</li>
     <li> <u>Apriori</u> : Market Basket Analysis</li>
     <li> <u>LightGBM&XGBoost</u> : Click-Through Rate (CTR) Prediction</li>
+    <li> <u>SVM</u> : Music Genre Classification</li>
 </ol>
     
 > Author: L.ES</br>
