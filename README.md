@@ -20,12 +20,12 @@ Here is a list of algorithms and projects implemented so far:
             <li> <ins>Gaussian Mixture Models</ins> : Anomaly Detection</li>
             <li> <ins>Apriori</ins> : Market Basket Analysis</li>
             <li> <ins>LightGBM&XGBoost</ins> : Click-Through Rate (CTR) Prediction</li>
-            <li> <ins>SVM</ins> : Music Genre Classification</li>
+            <li> <ins>Support Vector Machine (SVM)</ins> : Music Genre Classification</li>
         </ol>
     </li>
     <li> <ins>Deep Learning</ins>
         <ol type="1">
-            <li> <ins>CNN</ins> : Image Classification - MNIST, CIFAR-10, ImageNet</li>
+            <li> <ins>Convolutional Neural Networks (CNN)</ins> : Image Classification - MNIST, CIFAR-10, ImageNet</li>
         </ol>
     </li>
 </ul>
