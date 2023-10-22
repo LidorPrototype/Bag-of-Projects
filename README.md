@@ -26,6 +26,7 @@ Here is a list of algorithms and projects implemented so far:
     <li> <ins>Deep Learning</ins>
         <ol type="1">
             <li> <ins>Convolutional Neural Networks (CNN)</ins> : Image Classification - MNIST, CIFAR-10, ImageNet</li>
+            <li> <ins>Recurrent Neural Networks (RNN)</ins> : Sentiment Analysis - LSTM hyper needs tweaking</li>
         </ol>
     </li>
 </ul>
