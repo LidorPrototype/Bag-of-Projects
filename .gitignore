@@ -174,3 +174,5 @@ cython_debug/
 
 # Datasets
 imagenette2
+lfw
+lfw/

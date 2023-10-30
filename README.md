@@ -27,6 +27,7 @@ Here is a list of algorithms and projects implemented so far:
         <ol type="1">
             <li> <ins>Convolutional Neural Networks (CNN)</ins> : Image Classification - MNIST, CIFAR-10, ImageNet</li>
             <li> <ins>Recurrent Neural Networks (RNN)</ins> : Sentiment Analysis - LSTM hyper needs tweaking</li>
+            <li> <ins>Neural Style Transfer (NST)</ins> : Image Style Transfer</li>
         </ol>
     </li>
 </ul>
