@@ -4,7 +4,7 @@ The structure of this repository is as follows: inside the Projects folder you w
 
 Here is a list of algorithms and projects implemented so far:
 <ul>
-    <li> <ins>Machine Learning</ins>
+    <li> <ins>Machine Learning (ML)</ins>
         <ol type="1">
             <li> <ins>Linear Regression</ins> : Salary Prediction</li>
             <li> <ins>Logistic Regression</ins> : Employee Attrition Prediction</li>
@@ -23,12 +23,18 @@ Here is a list of algorithms and projects implemented so far:
             <li> <ins>Support Vector Machine (SVM)</ins> : Music Genre Classification</li>
         </ol>
     </li>
-    <li> <ins>Deep Learning</ins>
+    <li> <ins>Deep Learning (DL)</ins>
         <ol type="1">
             <li> <ins>Convolutional Neural Networks (CNN)</ins> : Image Classification - MNIST, CIFAR-10, ImageNet</li>
             <li> <ins>Recurrent Neural Networks (RNN)</ins> : Sentiment Analysis - LSTM hyper needs tweaking</li>
             <li> <ins>Neural Style Transfer (NST)</ins> : Image Style Transfer</li>
             <li> <ins>Gated Recurrent Unit (GRU)</ins> : Text Generation</li>
+        </ol>
+    </li>
+    <li> <ins>Data Engineering (DE)</ins>
+        <ol type="1">
+            <li> <a href="https://github.com/LidorPrototype/AutoScraper"><ins>AutoScraper</ins> : Automatic web scraping to collect data for ML projects</a></li>
+            <li> <a href="https://github.com/LidorPrototype/Web-Scrapers"><ins>Web-Scrapers</ins> : Multiple web scrapers</a></li>
         </ol>
     </li>
 </ul>
