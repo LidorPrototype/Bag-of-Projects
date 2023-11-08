@@ -176,6 +176,7 @@ cython_debug/
 imagenette2
 lfw
 lfw/
+*_dataset.csv
 
 # Secrets
 *.pem
