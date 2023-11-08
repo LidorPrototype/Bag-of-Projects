@@ -39,7 +39,13 @@ Here is a list of algorithms and projects implemented so far:
             <li> <a href="https://github.com/LidorPrototype/Web-Scrapers"><ins>Web-Scrapers</ins> : Multiple web scrapers</a></li>
         </ol>
     </li>
+    <li> <ins>Data Analysis (DA)</ins>
+        <ol type="1">
+        </ol>
+    </li>
 </ul>
     
 > Author: L.ES</br>
 > Python version: 3.9.7
+
+ ![Funny photo](1699402099193.jpeg)
