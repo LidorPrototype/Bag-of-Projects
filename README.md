@@ -41,11 +41,13 @@ Here is a list of algorithms and projects implemented so far:
     </li>
     <li> <ins>Data Analysis (DA)</ins>
         <ol type="1">
+            <li><ins>Series Analysis & Forecasting</ins> : <a href="https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls">Superstore sales data</a></li>
         </ol>
     </li>
 </ul>
     
 > Author: L.ES</br>
 > Python version: 3.9.7
+
 
  ![Funny photo](1699402099193.jpeg)

@@ -177,6 +177,7 @@ imagenette2
 lfw
 lfw/
 *_dataset.csv
+*_dataset.xls
 
 # Secrets
 *.pem
