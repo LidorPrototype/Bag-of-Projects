@@ -27,11 +27,13 @@ Here is a list of algorithms and projects implemented so far:
         <ol type="1">
             <li> <ins>Convolutional Neural Networks (CNN)</ins> : Image Classification - MNIST, CIFAR-10, ImageNet</li>
             <li> <ins>Recurrent Neural Networks (RNN)</ins> : Sentiment Analysis - LSTM hyper needs tweaking</li>
-            <li> <ins>Neural Style Transfer (NST)</ins> : Image Style Transfer</li>
-            <li> <ins>Gated Recurrent Unit (GRU)</ins> : Text Generation</li>
+            <li> <ins>Neural Style Transfer (NST)</ins> : Image Style Transfers <small><i>(GEN AI)</i></small></li>
+            <li> <ins>Autoencoders</ins> : Image Denoising <small><i>(GEN AI)</i></small></li>
+            <li> <ins>Gated Recurrent Unit (GRU)</ins> : Text Generation <small><i>(GEN AI)</i></small></li>
             <li> <ins>Multilayer Perceptrons</ins> : Handwritten Digit Recognition</li>
             <li> <ins>Self-Organizing Maps (SOM)</ins> : Data Visualization & Anomaly Detection</li>
         </ol>
+    <blockquote>Items with <small><i>(GEN AI)</i></small> next to them indicate that they are related to that field.</blockquote >
     </li>
     <li> <ins>Data Engineering (DE)</ins>
         <ol type="1">
